@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+dist/
+**/native/runtime/
+*.pdb
+*.zip
+*-report.json
+report.json
+.vs/
